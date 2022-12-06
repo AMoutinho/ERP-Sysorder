@@ -33,7 +33,6 @@
 
 <img align="center" src="https://i.imgur.com/JL5NLKt.png" width="300"/> 
 <img align="center" src="https://i.imgur.com/2lZXgSu.png" width="300"/> 
-<img align="center" src="https://i.imgur.com/B1fTU7v.png" width="300"/> 
     
 <h2 id="autores">Autor do Projeto 👨‍💼</h2>
 <a href="https://github.com/AhMoutinho/" title="André Moutinho"><img align="center" src="https://i.imgur.com/VN0Vh9S.png" width="25"/> André Moutinho</a>  
